@@ -34,6 +34,13 @@ To get a local copy up and running follow these simple example steps.
     python3 -m pip install 'fastapi[all]' sqlite-utils uvicorn multipledispatch pydantic
   ```
 
+* Install Redis
+  ```sh
+    To install and start Redis on Tuffix, use the following commands:
+    sudo apt update
+    sudo apt install --yes redis
+    sudo apt install --yes python3-hiredis
+  ```
 
 
 ### Final Steps
