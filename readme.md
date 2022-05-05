@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Super-Rogatory/wordle_backend
+   git clone https://github.com/raaamonnn/Project-4
    ```
 2. In the root directory of the app folder, create a .env and set values for CHECKING_PORT and VALIDATION_PORT
     ```
