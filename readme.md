@@ -46,6 +46,7 @@ To get a local copy up and running follow these simple example steps.
     ```
     CHECKING_PORT=5000
     VALIDATION_PORT=5500
+    TRACKER_PORT=5600
     ```
 3. Seed the database! (you may need to change permissions on your local machine)
    ```sh
