@@ -2,9 +2,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Contributors
-- **Chukwudi Ikem**
-- **Madison Jordan**
-- **James Talavera**
+- **Ramon Amini**
+- **Evan**
 - **Farnam Keshavarzian**
 
 ### Built With
